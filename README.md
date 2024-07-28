@@ -23,7 +23,7 @@ The **Event Trigger and Email Notification System** is a Ruby on Rails applicati
 
 - Ruby (version 2.7 or later)
 - Rails (version 6.0 or later)
-- PostgreSQL or SQLite (for the database)
+- PostgreSQL
 
 ### Steps to Set Up
 
